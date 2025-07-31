@@ -1,0 +1,98 @@
+
+html body {
+    background-color: #FBF5E5;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.entire h4{
+    font-family: "Smooch Sans", sans-serif;
+}
+
+#genre{
+font-family:  "Bebas Neue", sans-serif;
+font-size:50px;
+color:  #56021F;
+margin-top: 25px;
+margin-left:18px;
+}
+
+.entire h3{
+    font-family: "Smooch Sans", sans-serif;
+    font-weight: bold;
+    color: #B47B84;
+    margin-left: 10px;
+}
+.comedy{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family:  "Bebas Neue", sans-serif;
+}
+
+
+
+.thriller{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.drama{
+     display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.crime{
+     display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.romance{
+     display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.navbar{
+    background-color:#B47B84!important;
+    
+}
+
+.txt{
+    font-size: 24px !important;
+    color: white !important;
+     font-family: "Smooch Sans", sans-serif;
+
+}
+
+img{
+width:180px;
+height: 260px;
+}
+
+.thriller div{
+    text-align: center;
+}
+
+.comedy div{
+    text-align: center;
+}
+
+.drama div{
+     text-align: center;
+}
+
+.crime div{
+     text-align: center;
+}
+
+.romance div{
+     text-align: center;
+}
